@@ -1,0 +1,18 @@
+{
+  "users": [],
+  "groups": [
+    {
+      "id": "GRP-001",
+      "name": "Diamond Alpha",
+      "tier": "Diamond",
+      "contribution": 50000,
+      "payout": 500000,
+      "schedule": "Monthly",
+      "billboard": "Achieve your luxury goals with Alpha.",
+      "slots": []
+    }
+  ],
+  "transactions": [],
+  "notifications": [],
+  "leaderboard": []
+}
